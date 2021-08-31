@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog" 
+title: "Lor"
 date: 2021-08-31
 ---
